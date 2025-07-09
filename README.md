@@ -32,6 +32,14 @@ Neste repositório, você encontrará componentes reutilizáveis como:
 - Facilitar testes unitários e integração
 - Otimizar performance de agentes humanos e automáticos no desenvolvimento backend
 
+## 🤝 Contribuições
+
+Este repositório foi criado com o propósito de **uso pessoal**, como uma base de códigos reutilizáveis desenvolvidos e mantidos por mim.
+
+Caso alguém queira contribuir com sugestões, melhorias ou novos módulos, as contribuições serão **avaliadas manualmente**. Só serão incorporadas ao repositório se **estiverem alinhadas com os objetivos, padrões e estilo do projeto**.
+
+Sinta-se à vontade para abrir um pull request ou issue — toda contribuição será analisada com atenção, mas **não há garantia de aceite automático**.
+
 ## 📄 Licença
 
 Este projeto está licenciado sob uma licença de uso livre.
